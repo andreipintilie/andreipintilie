@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @andreipintilie
-- 👀 I’m interested in Web Development & Memes
-- 🌱 I’m currently learning React.js
-- 📫 How to reach me andrei.pintilie00@e-uvt.ro
+- My name is Andrei, I'm 21 years old and I'm very passionate about Web Development and its technologies.
 - Press [here](https://codepen.io/andreiliviuu/pens/public) to access my CodePen profile.
 
 <!---
