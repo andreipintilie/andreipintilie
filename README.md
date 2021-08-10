@@ -1,6 +1,3 @@
-# Get in touch
-
-![mailto:andrei.pintilie00@e-uvt.ro](https://image.flaticon.com/icons/png/512/281/281769.png)=50x50
 
 # Technologies
 
