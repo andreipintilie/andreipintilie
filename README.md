@@ -21,10 +21,7 @@ Back-End Technologies:
 ![mongodb](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=%3CLOGO_NAME%3E&logoColor=white&color=4DB33D)
 ![mysql](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=%3CLOGO_NAME%3E&logoColor=white&color=F29111)
 ![express](https://img.shields.io/badge/Server-Express-informational?style=flat&logo=%3CLOGO_NAME%3E&logoColor=white&color=ff8000)
-
-API:
-
-![postman](https://img.shields.io/badge/API-Postman-informational?style=flat&logo=%3CLOGO_NAME%3E&logoColor=white&color=ff6c37)
+![postman](https://img.shields.io/badge/API-Postman-informational?style=flat&logo=%3CLOGO_NAME%3E&logoColor=white&color=ff6c37)  
 
 Tools:
 
