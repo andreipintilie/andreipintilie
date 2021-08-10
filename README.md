@@ -28,6 +28,6 @@ API:
 
 Tools:
 
-![vscode](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=%3CLOGO_NAME%3E&logoColor=white&color=2981b9)
+![vscode](https://img.shields.io/badge/IDE-VSCode-informational?style=flat&logo=%3CLOGO_NAME%3E&logoColor=white&color=2981b9)
 ![git](https://img.shields.io/badge/VersionControl-SVN-informational?style=flat&logo=%3CLOGO_NAME%3E&logoColor=white&color=809bc8)
 ![git](https://img.shields.io/badge/VersionControl-Git-informational?style=flat&logo=%3CLOGO_NAME%3E&logoColor=white&color=E84E31)
