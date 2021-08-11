@@ -4,7 +4,7 @@ Front-End Technologies:
 
 ![html](https://img.shields.io/badge/Language-HTML-orange)
 ![css](https://img.shields.io/badge/Language-CSS-blue)
-![scss](https://img.shields.io/badge/Preprocesor-SCSS-informational?style=flat&logo=%3CLOGO_NAME%3E&logoColor=white&color=C96195)
+![scss](https://img.shields.io/badge/Preprocessor-SCSS-informational?style=flat&logo=%3CLOGO_NAME%3E&logoColor=white&color=C96195)
 ![bootstrap](https://img.shields.io/badge/Framework-Bootstrap-informational?style=flat&logo=%3CLOGO_NAME%3E&logoColor=white&color=7952B3)  
 
 ![javascript](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=%3CLOGO_NAME%3E&logoColor=white&color=F7DF1E)
