@@ -14,6 +14,7 @@ Front-End Technologies:
 ![vue-router](https://img.shields.io/badge/Library-VueRouter-informational?style=flat&logo=%3CLOGO_NAME%3E&logoColor=white&color=42b883)
 ![vuex](https://img.shields.io/badge/Library-Vuex-informational?style=flat&logo=%3CLOGO_NAME%3E&logoColor=white&color=33475B)
 ![boostrap-vue](https://img.shields.io/badge/Library-BootstrapVue-informational?style=flat&logo=%3CLOGO_NAME%3E&logoColor=white&color=7952B3)
+![vuetify](https://img.shields.io/badge/Library-Vuetify-informational?style=flat&logo=%3CLOGO_NAME%3E&logoColor=white&color=1868c1)  
 
 Back-End Technologies:
 
