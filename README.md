@@ -10,6 +10,7 @@ Front-End Technologies:
 ![javascript](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=%3CLOGO_NAME%3E&logoColor=white&color=F7DF1E)
 ![jquery](https://img.shields.io/badge/Library-JQuery-informational?style=flat&logo=%3CLOGO_NAME%3E&logoColor=white&color=0864A7)
 ![typescript](https://img.shields.io/badge/Preprocessor-TypeScript-informational?style=flat&logo=%3CLOGO_NAME%3E&logoColor=white&color=007acc)
+![react](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=%3CLOGO_NAME%3E&logoColor=white&color=0864A7)
 ![vue](https://img.shields.io/badge/Framework-Vue.js-informational?style=flat&logo=%3CLOGO_NAME%3E&logoColor=white&color=3FB27F)
 ![vue-router](https://img.shields.io/badge/Library-VueRouter-informational?style=flat&logo=%3CLOGO_NAME%3E&logoColor=white&color=42b883)
 ![vuex](https://img.shields.io/badge/Library-Vuex-informational?style=flat&logo=%3CLOGO_NAME%3E&logoColor=white&color=33475B)
