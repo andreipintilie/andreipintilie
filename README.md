@@ -1,36 +1,43 @@
+# About
+I am a Web Developer with industry experience building websites and web applications. I specialize in JavaScript and have professional experience working with Typescript and JQuery. I also have experience working with Vue, React, PHP and MySQL.
+
+# Contact
+<a href = "mailto:pintilieandreiliviu@gmail.com">
+  <img src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png" width="auto" height="50px"> 
+
+<a target="_blank" href="https://linkedin.com/in/andrei-pintilie-061204199">
+  <img src="https://nepa.com/wp-content/uploads/2017/09/linkedin-logo.png" width="auto" height="50px"> 
+
+<a target="_blank" href="https://instagram.com/andreiliviuu/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" width="auto" height="50px"> 
+
+<a target="_blank" href="https://facebook.com/pintilieandreiliviu/">
+  <img src="https://www.facebook.com/images/fb_icon_325x325.png" width="auto" height="50px">
+
 # Technologies
 
-Front-End Technologies:
-
-![html](https://img.shields.io/badge/Language-HTML-orange)
-![css](https://img.shields.io/badge/Language-CSS-blue)
-![scss](https://img.shields.io/badge/Preprocessor-SCSS-informational?style=flat&logo=%3CLOGO_NAME%3E&logoColor=white&color=C96195)
-![bootstrap](https://img.shields.io/badge/Framework-Bootstrap-informational?style=flat&logo=%3CLOGO_NAME%3E&logoColor=white&color=7952B3)  
-
-![javascript](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=%3CLOGO_NAME%3E&logoColor=white&color=F7DF1E)
-![jquery](https://img.shields.io/badge/Library-JQuery-informational?style=flat&logo=%3CLOGO_NAME%3E&logoColor=white&color=0864A7)
-![typescript](https://img.shields.io/badge/Preprocessor-TypeScript-informational?style=flat&logo=%3CLOGO_NAME%3E&logoColor=white&color=007acc)
-![react](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=%3CLOGO_NAME%3E&logoColor=white&color=0864A7)
-![vue](https://img.shields.io/badge/Framework-Vue.js-informational?style=flat&logo=%3CLOGO_NAME%3E&logoColor=white&color=3FB27F)
-![vue-router](https://img.shields.io/badge/Library-VueRouter-informational?style=flat&logo=%3CLOGO_NAME%3E&logoColor=white&color=42b883)
-![vuex](https://img.shields.io/badge/Library-Vuex-informational?style=flat&logo=%3CLOGO_NAME%3E&logoColor=white&color=33475B)
-![boostrap-vue](https://img.shields.io/badge/Library-BootstrapVue-informational?style=flat&logo=%3CLOGO_NAME%3E&logoColor=white&color=7952B3)
-![vuetify](https://img.shields.io/badge/Library-Vuetify-informational?style=flat&logo=%3CLOGO_NAME%3E&logoColor=white&color=7bc6ff)  
-
-Back-End Technologies:
-
-![mongodb](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=%3CLOGO_NAME%3E&logoColor=white&color=4DB33D)
-![mysql](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=%3CLOGO_NAME%3E&logoColor=white&color=00758F)
-![express](https://img.shields.io/badge/Server-Express-informational?style=flat&logo=%3CLOGO_NAME%3E&logoColor=white&color=ff8000)
-![postman](https://img.shields.io/badge/API-Postman-informational?style=flat&logo=%3CLOGO_NAME%3E&logoColor=white&color=ff6c37)  
-
-Tools:
-
-![vscode](https://img.shields.io/badge/IDE-VSCode-informational?style=flat&logo=%3CLOGO_NAME%3E&logoColor=white&color=2981b9)
-![phpstorm](https://img.shields.io/badge/IDE-PHPStorm-informational?style=flat&logo=%3CLOGO_NAME%3E&logoColor=white&color=2981b9)
-![git](https://img.shields.io/badge/VersionControl-SVN-informational?style=flat&logo=%3CLOGO_NAME%3E&logoColor=white&color=809bc8)
-![git](https://img.shields.io/badge/VersionControl-Git-informational?style=flat&logo=%3CLOGO_NAME%3E&logoColor=white&color=E84E31)
+![html](https://img.shields.io/badge/HTML5-ff8000?style=for-the-badge&logo=html&logoColor=white)
+![css](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=html&logoColor=white)
+![scss](https://img.shields.io/badge/SCSS-C96195?style=for-the-badge&logo=html&logoColor=white)
+![bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=html&logoColor=white)
+![tailwind](https://img.shields.io/badge/Tailwind-16becb?style=for-the-badge&logo=html&logoColor=white)
+![javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=html&logoColor=white)
+![jquery](https://img.shields.io/badge/JQuery-0864A7?style=for-the-badge&logo=html&logoColor=white)
+![typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&logo=html&logoColor=white)
+![react](https://img.shields.io/badge/React-0864A7?style=for-the-badge&logo=html&logoColor=white)
+![vue](https://img.shields.io/badge/Vue-3FB27F?style=for-the-badge&logo=html&logoColor=white)
+![vuex](https://img.shields.io/badge/VueX-33475B?style=for-the-badge&logo=html&logoColor=white)
+![vuetify](https://img.shields.io/badge/Vuetify-7bc6ff?style=for-the-badge&logo=html&logoColor=white)
+![mongodb](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=html&logoColor=white)
+![mysql](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=html&logoColor=white)
+![express](https://img.shields.io/badge/Express-ff8000?style=for-the-badge&logo=html&logoColor=white)
+![postman](https://img.shields.io/badge/Postman-ff6c37?style=for-the-badge&logo=html&logoColor=white)
+![vscode](https://img.shields.io/badge/VSCode-2981b9?style=for-the-badge&logo=html&logoColor=white)
+![phpstorm](https://img.shields.io/badge/PHPStorm-2981b9?style=for-the-badge&logo=html&logoColor=white)
+![git](https://img.shields.io/badge/Git-809bc8?style=for-the-badge&logo=html&logoColor=white)
+![svn](https://img.shields.io/badge/SVN-E84E31?style=for-the-badge&logo=html&logoColor=white)
 
 # Github Stats
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=andreipintilie&layout=compact)
+![Andrei's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=andreipintilie&layout=compact)  
+![Madalina's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreipintilie&show_icons=true&theme=dark)
