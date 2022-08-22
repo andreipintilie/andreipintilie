@@ -1,5 +1,5 @@
 # About
-I am a Web Developer with industry experience building websites and web applications. I specialize in JavaScript and have professional experience working with Typescript and JQuery. I also have experience working with Vue, React, PHP and MySQL.
+I am a Web Developer with industry experience building websites and web applications. I specialize in JavaScript and have professional experience working with Typescript and JQuery. I also have experience working with Vue and React.
 
 # Contact
 <a href = "mailto:pintilieandreiliviu@gmail.com">
