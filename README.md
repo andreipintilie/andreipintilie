@@ -40,4 +40,4 @@ I am a Web Developer with industry experience building websites and web applicat
 # Github Stats
 
 ![Andrei's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=andreipintilie&layout=compact)  
-![Madalina's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreipintilie&show_icons=true&theme=dark)
+![Andrei's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreipintilie&show_icons=true&theme=dark)
