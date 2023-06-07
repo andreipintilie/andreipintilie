@@ -1,5 +1,5 @@
 # About
-I am a Web Developer with industry experience building websites and web applications. I specialize in JavaScript and have professional experience working with Typescript and JQuery. I also have experience working with Vue and React.
+Experienced Front-End Developer specializing in creating captivating user experiences. Proficient in HTML, SCSS, JavaScript, and TypeScript. Committed to delivering visually appealing and high-performing websites & web applications that drive user engagement.
 
 # Contact
 <a href = "mailto:pintilieandreiliviu@gmail.com">
