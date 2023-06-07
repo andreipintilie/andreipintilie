@@ -2,17 +2,23 @@
 Experienced Front-End Developer specializing in creating captivating user experiences. Proficient in HTML, SCSS, JavaScript, and TypeScript. Committed to delivering visually appealing and high-performing websites & web applications that drive user engagement.
 
 # Contact
-<a href = "mailto:pintilieandreiliviu@gmail.com">
-  <img src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png" width="auto" height="50px"> 
+<a href="mailto:pintilieandreiliviu@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
 
 <a target="_blank" href="https://linkedin.com/in/andrei-pintilie-061204199">
-  <img src="https://nepa.com/wp-content/uploads/2017/09/linkedin-logo.png" width="auto" height="50px"> 
-
-<a target="_blank" href="https://instagram.com/andreiliviuu/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" width="auto" height="50px"> 
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+  
+# Socials
 
 <a target="_blank" href="https://facebook.com/pintilieandreiliviu/">
-  <img src="https://www.facebook.com/images/fb_icon_325x325.png" width="auto" height="50px">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+</a>
+
+<a target="_blank" href="https://instagram.com/andreiliviuu/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
 
 # Technologies
 
