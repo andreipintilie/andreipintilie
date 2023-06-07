@@ -39,5 +39,6 @@ I am a Web Developer with industry experience building websites and web applicat
 
 # Github Stats
 
-![Andrei's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=andreipintilie&layout=compact)  
-![Andrei's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreipintilie&show_icons=true&theme=dark)
+![Andrei's Stats](https://github-readme-stats.vercel.app/api?username=andreipintilie&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![Andrei's Streak](https://github-readme-streak-stats.herokuapp.com/?user=andreipintilie&theme=tokyonight&hide_border=true)
+![Andrei's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andreipintilie&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
