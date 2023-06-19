@@ -1,5 +1,8 @@
 # About
 Experienced Front-End Developer specializing in creating captivating user experiences. Proficient in HTML, SCSS, JavaScript, and TypeScript. Committed to delivering visually appealing and high-performing websites & web applications that drive user engagement.
+<br><br>
+[![](https://visitcount.itsvg.in/api?id=madalinaeleonorag&icon=6&color=12)](https://visitcount.itsvg.in)
+<br>
 
 # Contact
 <a href="mailto:pintilieandreiliviu@gmail.com">
