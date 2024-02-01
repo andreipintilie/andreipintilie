@@ -5,7 +5,7 @@ Experienced Front-End Developer specializing in creating captivating user experi
 <br>
 
 # Contact
-<a href="mailto:pintilieandreiliviu@gmail.com">
+<a href="mailto:andreipintilie00@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
 
